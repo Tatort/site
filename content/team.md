@@ -6,11 +6,11 @@ title: Team
 ---
 ## 
 
-### University of Florida / Nature Coast Biological Station
+# University of Florida / Nature Coast Biological Station
 
-#Travis M. Thomas, PhD
+## Travis M. Thomas, PhD
 
-![Thomas_AST.jpg](static/pics<img src="/./team_files/Thomas_AST.jpg" alt="Dr. Thomas holding a &gt;100lbs alligator snapping turtle" width="40%"/>/bar.png)
+<img src="/./team_files/Thomas_AST.jpg" width="40%"/>
 
 
 
@@ -18,7 +18,12 @@ title: Team
 
 Dr. Thomas is a staff research scientist at the University of Florida's Nature Coast Biological Station in Cedar Key, FL. 
 
-#Shea Husband
+
+
+
+
+
+## Shea Husband
 
 Shea is a current grad student
 
