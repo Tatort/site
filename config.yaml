@@ -2,8 +2,8 @@ baseurl: "/"
 languageCode: en-us
 title: ALLcology Lab
 theme: blackburn
-author: Yoshiharu Yamashita
-copyright: '&copy; 2016. All rights reserved.'
+author: Travis M. Thomas
+copyright: '&copy; 2022. All rights reserved.'
 canonifyurls: yes
 paginate: 10
 ignoreFiles: = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -17,35 +17,38 @@ params:
   disqus: Your Disqus shortname
   googleAnalytics: Your Google Analytics tracking ID
   highlightjs: androidstudio
-  subtitle: Nature Coast Biological Station
+  subtitle: UF / Nature Coast Biological Station
+                
 menu:
   main:
     - identifier: home
       name: Home
       pre: <i class='fa fa-home fa-fw'></i>
       url: /home/
-      weight: 1
-    - identifier: post
-      name: Posts
+      weight: 10
+    - identifier: projects
+      name: Projects
       pre: <i class='fa fa-list fa-fw'></i>
       url: /post/
-      weight: 2
+      weight: 20
     - identifier: about
       name: About
       pre: <i class='fa fa-list fa-fw'></i>
       url: /about/
-      weight: 3
+      weight: 30
     - identifier: team
       name: Team
       pre: <i class='fa fa-user fa-fw'></i>
       url: /team/
-      weight: 4
-    - name: Contact
-      pre: <i class='fa fa-phone fa-fw'></i>
-      url: /contact/
-      weight: 5
+      weight: 40
+    
 social:
   facebook: '*'
   github: Tatort
   instagram: '*'
   twitter: '*'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
