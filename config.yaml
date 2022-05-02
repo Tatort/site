@@ -21,26 +21,22 @@ params:
                 
 menu:
   main:
-    - identifier: home
-      name: Home
-      pre: <i class='fa fa-home fa-fw'></i>
-      url: /home/
-      weight: 10
-    - identifier: projects
-      name: Projects
-      pre: <i class='fa fa-list fa-fw'></i>
-      url: /post/
-      weight: 20
     - identifier: about
       name: About
       pre: <i class='fa fa-list fa-fw'></i>
       url: /about/
-      weight: 30
+      weight: 10
     - identifier: team
       name: Team
       pre: <i class='fa fa-user fa-fw'></i>
       url: /team/
-      weight: 40
+      weight: 20
+      - identifier: projects
+      name: Projects
+      pre: <i class='fa fa-list fa-fw'></i>
+      url: /projects/
+      weight: 30
+  
     
 social:
   facebook: '*'
