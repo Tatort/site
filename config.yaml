@@ -38,11 +38,9 @@ menu:
       weight: 3
       - identifier: posts
       name: Posts
-      pre: <i class='fa fa-list fa-fw'></i>
+      pre: <i class='fa fa-pencil fa-fw'></i>
       url: /post/
-      weight: 3
-      
-      
+      weight: 4
       
 social:
   facebook: '*'
