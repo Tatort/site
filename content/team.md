@@ -16,7 +16,7 @@ title: Team
 
 
 
-Dr. Thomas is a staff research scientist at the University of Florida's Nature Coast Biological Station in Cedar Key, FL. 
+Dr. Thomas is a wildlife ecologist at the University of Florida's Nature Coast Biological Station in Cedar Key, FL. Dr. Thomas research addresses the conservation and management of imperiled species in the region. Dr. Thomas works extensively with reptile populations where he uses a multitude of techniques to better understand population status. 
 
 
 
