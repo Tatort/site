@@ -1,7 +1,7 @@
 ---
 date: "2022-05-01"
 description: Current projects 
-sidemenu: "true"
+sidemenu: "true" 
 title: Projects
 ---
 
