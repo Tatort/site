@@ -36,11 +36,12 @@ menu:
       pre: <i class='fa fa-list fa-fw'></i>
       url: /projects/
       weight: 3
-      - identifier: posts
-      name: Posts
-      pre: <i class='fa fa-pencil fa-fw'></i>
-      url: /post/
+      - identifier: home
+      name: Home
+      pre: <i class='fa fa-home fa-fw'></i>
+      url: /home/
       weight: 4
+      
       
 social:
   facebook: '*'
