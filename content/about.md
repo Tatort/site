@@ -11,7 +11,7 @@ The Allcology lab at the University of Florida's [Nature Coast Biological Statio
 ## Team members and collaborators:
 
 
-<img src="/./about_files/Thomas_AST.jpg" alt="" width="80%"/> 
+![](/./about_files/Thomas_AST.jpg)
 
 
 ### Travis M. Thomas, PhD
