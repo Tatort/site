@@ -19,15 +19,13 @@ The Allcology lab at the University of Florida's [Nature Coast Biological Statio
 Dr. Thomas is a staff research scientist at UF/IFAS Nature Coast Biological station where his research focuses on the population ecology of imperiled species. 
 
 
-
-
-
+![](/./about_files/Husband_2.jpg)
 
 
 
 ### Shae Husband, MS student
 
-
+Shea is a current masters student working on diamondback terrapins and their interactions with bluecrab traps
 
 
 
