@@ -40,6 +40,6 @@ Shea is a current masters student working on diamondback terrapins and their int
 
 
 
-Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/###).
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/allcology).
 
 Thanks for reading!
