@@ -16,13 +16,13 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: Travis M Thomas
-  description: "A few of my research publications"
+  author: 
+  description: ""
  #   the _index.md file in the /blog folder \nto edit this content.  #\n"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: ""
 thumbnail_left: true
 title: Publications and research articles
 
