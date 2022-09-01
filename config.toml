@@ -126,31 +126,31 @@ enableEmoji = true
     title = "About me & allcology"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Presentations"
     title = "Talks & Presentations"
     url = "/talk/"
+    weight = 3
+  [[menu.header]]
+    name = "Collaborators"
+    title = "Collaborators & Partners"
+    url = "/collaboarators/"
     weight = 4
   [[menu.header]]
-    name = "Colaborators"
-    title = "Colaborators & Partners"
-    url = "/collection/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
     
   # Configure footer  
   [[menu.footer]]
