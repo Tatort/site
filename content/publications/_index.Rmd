@@ -1,0 +1,11 @@
+
+---
+title: "Some of my publications"
+bibliography: [/website/site/content/publications/Publications.bib]
+link-citations: true
+nocite: | 
+  @R-bookdown
+
+---
+
+

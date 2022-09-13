@@ -1,0 +1,134 @@
+@Article{Thomas2014,
+  author    = {Thomas, Travis M and Granatosky, Michael C and Bourque, Jason R and Krysko, Kenneth L and Moler, Paul E and Gamble, Tony and Suarez, Eric and Leone, Erin and Enge, Kevin M and Roman, Joe},
+  journal   = {Zootaxa},
+  title     = {Taxonomic assessment of Alligator Snapping Turtles (Chelydridae: Macrochelys), with the description of two new species from the southeastern United States},
+  year      = {2014},
+  number    = {2},
+  pages     = {141--165},
+  volume    = {3786},
+  publisher = {Citeseer},
+}
+
+@Article{DiemerBerish2012,
+  author  = {Diemer Berish, Joan E and Kiltie, Richard A and Thomas, Travis M},
+  journal = {Chelonian Conservation and Biology},
+  title   = {Long-term population dynamics of gopher tortoises (Gopherus polyphemus) in a pine plantation in northern Florida},
+  year    = {2012},
+  number  = {1},
+  pages   = {50--58},
+  volume  = {11},
+}
+
+@Article{Johnston2015,
+  author    = {Johnston, Gerald R and Thomas, Travis M and Suarez, Eric and Lau, Anthony and Mitchell, Joseph C},
+  journal   = {Chelonian Conservation and Biology},
+  title     = {Population structure and body size of the Suwannee alligator snapping turtle (Macrochelys suwanniensis) in northern Florida},
+  year      = {2015},
+  number    = {1},
+  pages     = {73--81},
+  volume    = {14},
+  publisher = {The CCBD practitioner journal Department of Psychology, Indiana University~…},
+}
+
+@Article{Enge2012,
+  author  = {Enge, KEVIN M and Jernigan, ANDREW and Johnson, RUSSELL and Berish, JOAN E DIEMER and Moler, PAUL E and Thomas, TRAVIS M and Kiltie, RICHARD A},
+  journal = {Herpetological Review},
+  title   = {What the world needs is a better gopher tortoise trap},
+  year    = {2012},
+  number  = {4},
+  pages   = {574--578},
+  volume  = {43},
+}
+
+@Article{Suarez2021,
+  author    = {Suarez, Eric and Thomas, Travis M and Turner, William M and Gandy, Ryan L and Enge, Kevin M and Johnson, Steve A},
+  journal   = {Chelonian Conservation and Biology: Celebrating 25 Years as the World's Turtle and Tortoise Journal},
+  title     = {Population Size and Structure of the Ornate Diamondback Terrapin (Malaclemys terrapin macrospilota) on Small Gulf Coast Islands in Florida},
+  year      = {2021},
+  number    = {2},
+  pages     = {265--272},
+  volume    = {20},
+  publisher = {Chelonian Research Foundation and Turtle Conservancy},
+}
+
+@Article{Enge2021,
+  author    = {Enge, Kevin M and Stevenson, Dirk J and Thomas, Travis M and Johnston, Gerald R and Jensen, John B and Stegenga, Benjamin S and Chandler, Houston C and Moler, Paul E},
+  journal   = {Chelonian Conservation and Biology: Celebrating 25 Years as the World's Turtle and Tortoise Journal},
+  title     = {Distribution and Relative Abundance of the Suwannee Alligator Snapping Turtle (Macrochelys suwanniensis)},
+  year      = {2021},
+  number    = {2},
+  pages     = {184--199},
+  volume    = {20},
+  publisher = {Chelonian Research Foundation and Turtle Conservancy},
+}
+
+@Article{Thomas2015,
+  author  = {Thomas, Travis M and Suarez, Eric and Enge, Kevin M},
+  journal = {Herpetological Review},
+  title   = {New county records of reptiles from the Suwannee River, Florida, USA},
+  year    = {2015},
+  number  = {4},
+  pages   = {608},
+  volume  = {46},
+}
+
+@Article{Thomas2022,
+  author    = {Thomas, Travis M and Boone, Wessley and Allen, Micheal S and Martin, Charles and Johnston, Steve A},
+  journal   = {Herpetological Conservation and Biology},
+  title     = {Occupancy of the Diamond-backed Terrapin (Malaclemys terrapin) on Coastal Islands in the Suwannee River Estuary, Florida},
+  year      = {2022},
+  note      = {(in press)},
+  publisher = {Herpetological Conservation and Biology},
+}
+
+@Article{Thomas2022b,
+  author    = {Thomas, Travis M and Suarez, Eric and Enge, Kevin and Barry, Savanna C and Johnston, Steve A},
+  journal   = {Southeastern Naturalist},
+  title     = {Variation in Relative Abundance and Body Size of the Suwannee Alligator Snapping Turtle in the Suwannee River},
+  year      = {2022},
+  note      = {(in press)},
+  publisher = {Humboldt Field Research Institute},
+}
+
+@Article{Denton2022inpress,
+  author    = {Denton, Mathew and Johnston, Gerald R and Thomas, Travis M and Waddle, Hardin and Walls, Susan C and Hart, Kristen M},
+  journal   = {Southeastern Naturalist},
+  title     = {Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis},
+  year      = {2022},
+  note      = {(in press)},
+  publisher = {Humboldt Field Research Institute},
+}
+
+@InBook{Thomas2019,
+  author    = {Thomas, Travis M and Enge, Kevin M},
+  chapter   = {4},
+  pages     = {239-244},
+  publisher = {University of Florida Press},
+  title     = {The Alligator Snapping Turtle},
+  year      = {2019},
+  booktitle = {Amphibians and reptiles of Florida},
+}
+
+@Article{Johnston2012,
+  author    = {Johnston, Gerald and Thomas, Travis M and Lau, Anthony},
+  journal   = {Herpetological Review},
+  title     = {Alligator Snapping Turtle: Growth Rates},
+  year      = {2012},
+  number    = {2},
+  pages     = {474-475},
+  volume    = {43},
+  publisher = {Society for the Study of Amphibians and Reptiles},
+}
+
+@Article{Thomas2022a,
+  author    = {Thomas, Travis M and Enge, Kevin M and Suarez, Eric and Johnston, Gerald R},
+  journal   = {Chelonian Conservation and Biology: Celebrating 25 Years as the World's Turtle and Tortoise Journal},
+  title     = {Population Status of the Suwannee Alligator Snapping Turtle (Macrochelys suwanniensis) in the Suwannee River, Florida},
+  year      = {2022},
+  number    = {1},
+  pages     = {2--10},
+  volume    = {21},
+  publisher = {Chelonian Research Foundation and Turtle Conservancy},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
