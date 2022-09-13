@@ -147,9 +147,9 @@ enableEmoji = true
     url = "/collaboarators/"
     weight = 4
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
+    name = "CV"
+    title = "CV"
+    url = "/static/files/Thomas_CV.pdf"
     weight = 5
     
   # Configure footer  
