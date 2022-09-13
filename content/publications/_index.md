@@ -22,7 +22,6 @@ lapply(packages, function(x) {
 ```
 
 
-1. @Thomas2014
 
 
 
