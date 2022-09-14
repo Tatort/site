@@ -1,5 +1,6 @@
 ---
 author: Travis M. Thomas
+date: '2022-08-17'
 categories:
 - Publication
 draft: false
