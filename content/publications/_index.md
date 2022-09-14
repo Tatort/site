@@ -1,28 +1,27 @@
 ---
-title: Some of my publications
 author: Travis M. Thomas
-#raw: "https://raw.githubusercontent.com/rbind/blogdown-demo/master/content/post/2017-08-#28-adding-citations-to-posts.Rmd"
-date: '2017-08-28'
-slug: adding-citations-to-posts
-bibliography: [/website/site/content/publications/Publications.bib]
-link-citations: true
-nocite: | 
-  @R-bookdown
+cascade:
+  show_author_byline: true
+  show_comments: false
+  show_post_date: true
+  sidebar:
+    show_sidebar_adunit: true
+    text_link_label: View all projects
+    text_link_url: /publications/
+description: A curated list.
+layout: list
+show_author_byline: false
+show_button_links: false
+show_post_date: false
+show_post_thumbnail: false
+sidebar:
+  author: Travis M. Thomas
+  description: "Research Articles and Publications"
+  show_sidebar_adunit: false
+  text_link_label: ""
+  text_link_url: ""
+title: "Research Articles and Publications"
+
 ---
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(comment = NA, eval = FALSE)
-
-# load packages
-packages <- c("bookdown", "blogdown", "knitr")
-lapply(packages, function(x) {
-  if (!requireNamespace(x)) install.packages(x)
-  library(x, character.only = TRUE)
-})
-```
-
-
-
-
-
-
+** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
