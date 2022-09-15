@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 6
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -28,13 +28,14 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
+  orgName = "Univ of FL"
   orgLocal = "Cedar Key, Florida"
   description = ""
   favicon = "/img/Thomas_AST.jpg"
   logo = "/img/SAST_skull.jpg"
-  mainSections = ["Projects", "Presentations"]
+  mainSections = ["project"]
   navallcaps = true
+  email = "travis.thomas@ufl.edu"
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -44,7 +45,6 @@ enableEmoji = true
   sharing_image = "/img/Thomas_AST.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "Allcology"
-  
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
@@ -109,10 +109,10 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8325-2320"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+#  [[params.social]]
+#      icon      = "rss" # icon name without the 'fa-'
+#      icon_pack = "fas"
+#      url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -141,17 +141,26 @@ enableEmoji = true
     title = "Talks & Presentations"
     url = "/talk/"
     weight = 3
-  [[menu.header]]
-    name = "Collaborators"
-    title = "Collaborators & Partners"
-    url = "/collaboarators/"
-    weight = 4
+#  [[menu.header]]
+#    name = "Collaborators"
+#    title = "Collaborators & Partners"
+#    url = "/collaboarators/"
+#    weight = 4
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
+    weight = 4
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/Thomas_CV.pdf"
     weight = 5
-    
+  
+  
+  
+  
+  
   # Configure footer  
  # [[menu.footer]]
  #   name = "License"

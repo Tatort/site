@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Allcology"
-role: "Travis M. Thomas"
+author: "Travis M. Thomas"
+role: "Researcher"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
@@ -13,7 +13,12 @@ link_list:
   url: http://www.phidot.org/software/mark/
 - name: NCBS
   url: https://ncbs.ifas.ufl.edu/
+
 ---
+
+
+
+
 
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
