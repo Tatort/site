@@ -141,21 +141,21 @@ enableEmoji = true
     title = "Talks & Presentations"
     url = "/talk/"
     weight = 3
-#  [[menu.header]]
-#    name = "Collaborators"
-#    title = "Collaborators & Partners"
-#    url = "/collaboarators/"
-#    weight = 4
+  [[menu.header]]
+    name = "Partners"
+    title = "Partners & Collaborators"
+    url = "/collaborators/"
+    weight = 4
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/Thomas_CV.pdf"
-    weight = 5
+    weight = 6
   
   
   

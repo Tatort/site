@@ -1,26 +1,24 @@
 ---
 author: Travis M. Thomas
 cascade:
-  show_author_byline: false
-  show_comments: false
-  show_post_date: false
+  layout: single
   sidebar:
-    show_sidebar_adunit: false
-    text_link_label: 
-    text_link_url: 
-description: 
-layout: list
+    author: Travis M. Thomas
+    description: "I get by with a little help from my friends"
+    show_author_byline: true
+    show_post_date: true
+    show_sidebar_adunit: true
+    text_contents_label: On this page
+    text_link_label: ""
+    text_link_url: ""
+    text_series_label: Outline
+    title: An incomplete list of my research partners and collaborators
+description: ""
+layout: list-sidebar
 show_author_byline: false
-show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
-sidebar:
-  author: Travis M. Thomas
-  description: "Some of my research partners and collaborators"
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-title: "Collaborators and Partners"
+subtitle: A growing list of people.
+thumbnail_left: false
+title: Research Partners & Collaborators
 ---
-
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
