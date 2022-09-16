@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/Thomas_AST.jpg"
   logo = "/img/SAST_skull.jpg"
-  mainSections = ["project"]
+  mainSections = ["publications"]
   navallcaps = true
   email = "travis.thomas@ufl.edu"
   # show/hide social icons in site header & footer
