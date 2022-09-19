@@ -142,8 +142,8 @@ enableEmoji = true
     url = "/talk/"
     weight = 3
   [[menu.header]]
-    name = "Partners"
-    title = "Partners & Collaborators"
+    name = "Collaborators"
+    title = "Collaborators"
     url = "/collaborators/"
     weight = 4
   [[menu.header]]
