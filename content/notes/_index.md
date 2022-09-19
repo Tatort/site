@@ -10,7 +10,7 @@ cascade:
     text_link_label: View recent posts
     text_link_url: /notes/
 description: "Some recent noteworthy field excursions"
-layout: list-sidebar
+layout: list
 show_author_byline: true
 show_button_links: false
 show_post_date: false
