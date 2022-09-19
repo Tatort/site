@@ -142,20 +142,25 @@ enableEmoji = true
     url = "/talk/"
     weight = 3
   [[menu.header]]
+    name = "Field Notes"
+    title = "Field Notes"
+    url = "/notes/"
+    weight = 4
+  [[menu.header]]
     name = "Collaborators"
     title = "Collaborators"
     url = "/collaborators/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/Thomas_CV.pdf"
-    weight = 6
+    weight = 7
   
   
   

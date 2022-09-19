@@ -1,4 +1,5 @@
 ---
+
 author: Travis M. Thomas
 cascade:
   show_author_byline: true
@@ -22,6 +23,7 @@ sidebar:
   text_link_url: ""
   title: My Projects
 title: Past, Present, and Future Research Projects
+
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
