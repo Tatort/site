@@ -4,7 +4,7 @@ categories:
 - AST Research
 date: "2022-8-20"
 draft: false
-excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in the Suwannee River. 
+excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in the Suwannee River. It was hot and rainy, but we captured many turtles, and we even had a few recaptures from 2012. 
 layout: single
 subtitle: An ongoing capture-mark-recapture adventure
 title: The Snappers of Summer
