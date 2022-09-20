@@ -5,7 +5,7 @@ role: "Researcher"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Check out!" # bookmarks, elsewhere, etc.
+link_list_label: "My 3 favorite things: R, MARK, and UF/NCBS!" # bookmarks, elsewhere, etc.
 link_list:
 - name: R stats
   url: https://www.r-project.org/

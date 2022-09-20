@@ -10,7 +10,7 @@ intro: |
   
 
 show_outro: true
-outro: Thanks for reading!
+outro: Thank you for reading!
 ---
 
 
