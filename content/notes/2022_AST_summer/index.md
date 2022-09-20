@@ -5,7 +5,7 @@ categories:
 date: "2022-8-20"
 draft: false
 
-excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in the Suwannee River. It was hot and rainy; we were welcomed by a 8 ft long alligator in one of our traps, but we managed to capture a bunch turtles. In addition, we caught a few turtles that were previously marked in 2011-2012. These long-term recaptures are extremely important and provide some indication that this species has high apparent survival and incredible site fidelity! What a fascinating turtle! 
+excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in the Suwannee River. It was hot and rainy; we were welcomed by a 8 ft long alligator in one of our traps, but we managed to capture a bunch turtles. In addition, we caught a few turtles that were previously marked in 2011-2012. These long-term recaptures are extremely important and provide some indication that this species has high apparent survival and incredible site fidelity! What a fascinating turtle! Click to read more.
 
 layout: single
 subtitle: An ongoing capture-mark-recapture odyssey
@@ -14,7 +14,7 @@ title: The Snappers of Summer
 
 ### Our latest sampling efforts in our 3 long-term sampling sites. 
 
-Our summer sample start off on a rough note, as we had to deal with a ~8 ft gator entangled in our first trap. After about 45 minutes of struggling, we were able to free the exhausted gator. To be honest, the whole ordeal had made us equally exhausted, but Kevin avoided losing his hand. Only 16 hours to go!  
+Our summer sample start off on a rough note, as we had to deal with a ~8 ft gator entangled in our first trap in our upper site. After about 45 minutes of struggling, we were able to free the exhausted gator. To be honest, the whole ordeal had made us equally exhausted, but Kevin avoided losing his hand. Only 16 hours to go!  
 
 <img src="images/gator.jpg" alt="" width="60%" height="60%"/>
 
@@ -30,7 +30,7 @@ Interestingly, the water levels were pretty low in the lower and middle river, w
 
 <img src="images/juv.jpg" alt="A juvenile Suwannee AST captured in the upper river" width="60%" height="60%"/>
 
-Also, during this expedition, we documented a population about ~40 km upriver from the extent of our upper river site. This could potentially allow us to expand our population estimate to include this area and possible lead to future study in this new site.
+The upstream Suwannee is drastically different in appearance than the middle and lower river. In our upper site, the high limestone fern-covered banks are lovely to see compared to the middle and lower river sites. During this expedition, we documented a population about ~40 km upriver from the extent of our upper river site. This could potentially allow us to expand our population estimate to include this area and possible lead to future study in this new site. 
 
-
+<img src="images/bank.jpg" alt="" width="60%" height="60%"/>
 
