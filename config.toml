@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "www.allcology.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Allcology"
