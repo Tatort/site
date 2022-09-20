@@ -1,6 +1,5 @@
 ---
 author: Travis M. Thomas and Team
-date: "2022-07-27"
 cascade:
   author: Travis M. Thomas
   show_author_byline: true
