@@ -6,7 +6,7 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt: "**Thomas, Travis M**, and Kevin M Enge. 2019. “The Alligator Snapping Turtle.” *In*: Kysko, Enge, and Moler (Eds.) [*Amphibians and Reptiles of Florida*](https://upf.com/book.asp?id=9781683400448), 239–244. University of Florida Press, Gainesville, Florida."   
+excerpt: "**Thomas, Travis M** and Kevin Enge. 2019. The Alligator Snapping Turtle. *In*: Kysko, Enge, and Moler (Eds.) [*Amphibians and Reptiles of Florida*](https://upf.com/book.asp?id=9781683400448), 239–244. University of Florida Press, Gainesville, Florida."   
 featured: true
 layout: single
 links:
@@ -16,5 +16,5 @@ subtitle:
 title:
 ---
 
-**Thomas, Travis M**, and Kevin M Enge. 2019. “The Alligator Snapping Turtle.” In Kysko, Enge, and Moler (Eds.) [*Amphibians and Reptiles of Florida*](https://upf.com/book.asp?id=9781683400448), 239–244. University of Florida Press, Gainesville, Florida.
+**Thomas, Travis M** and Kevin Enge. 2019. The Alligator Snapping Turtle. *In*: Kysko, Enge, and Moler (Eds.) [*Amphibians and Reptiles of Florida*](https://upf.com/book.asp?id=9781683400448), 239–244. University of Florida Press, Gainesville, Florida.
 

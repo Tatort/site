@@ -6,7 +6,7 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt: "Denton, Mathew, Gerald R Johnston, **Travis M Thomas**, Hardin Waddle, Susan C Walls, and Kristen M Hart. 2022. “Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis.” Southeastern Naturalist. *In press*."   
+excerpt: "Denton, Mathew, Gerald R Johnston, **Travis M Thomas**, Hardin Waddle, Susan C Walls, and Kristen M Hart. 2022. Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis. *Southeastern Naturalist*. *In press*."   
 featured: true
 layout: single
 links:
@@ -17,4 +17,4 @@ title:
 
 ---
 
-Denton, Mathew, Gerald R Johnston, **Travis M Thomas**, Hardin Waddle, Susan C Walls, and Kristen M Hart. 2022. “Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis.” Southeastern Naturalist. *In press*.
+Denton, Mathew, Gerald R Johnston, **Travis M Thomas**, Hardin Waddle, Susan C Walls, and Kristen M Hart. 2022. Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis. *Southeastern Naturalist*. *In press*.
