@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  A list of talks, presentations, and workshops
+  Recent talks and presentations 
 layout: list
 show_author_byline: true
 show_button_links: true

@@ -12,6 +12,13 @@ title: The Snappers of Summer
 
 ### Our latest sampling efforts in our 3 long-term sampling sites. 
 
+Our summer sample start off on a rough note, as we had to deal with a ~8 ft gator entangled in our first trap. After about 45 minutes of struggling, we were able to free the exhausted gator. To be honest, the whole ordeal had made us equally exhausted, but Kevin avoided losing his hand. Only 16 hours to go!  
+
+<img src="images/gator.jpg" alt="" width="60%" height="60%"/>
+
+
+
+
 Typically, we see a small drop in our capture per unit effort (CPUE) during the hot summer months. Not so fast my friends. We captured many turtles on this outing, and we even captured three turtles in our lower river site, which is about three more than we usually capture! Our summer intern Gracie had the opportunity to join us, and her hard work paid off. 
 
 <img src="images/Cracie_AST.jpg" alt="UF/NCBS summer intern Gracie and Dr. Thomas hold an adult female *M. suwanniensis*" width="60%" height="60%"/>
