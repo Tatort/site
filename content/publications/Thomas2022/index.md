@@ -6,7 +6,7 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt:   "**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. “Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida.” [Chelonian Conservation and Biology (1): 2–10.](https://meridian.allenpress.com/ccb/article-abstract/21/1/2/483147/Population-Status-of-the-Suwannee-Alligator?redirectedFrom=fulltext)"
+excerpt:   "**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. “Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida.” [Chelonian Conservation and Biology (1): 2–10.](https://bioone.org/journals/chelonian-conservation-and-biology/volume-21/issue-1/CCB-1500.1/Population-Status-of-the-Suwannee-Alligator-Snapping-Turtle-Macrochelys-suwanniensis/10.2744/CCB-1500.1.full)"
 featured: true
 layout: single
 links:
