@@ -8,19 +8,14 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View publications
     text_link_url: /publications/
-description: A curated list of more recent publications.
+description: Click image to view full citation.
 layout: list
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
-sidebar:
-  author: Travis M. Thomas
-  description: "Some of my recent research articles and publications"
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-title: "Recent research articles and publications"
+
+title: "A Curated List of Recent Publications"
 
 ---
 

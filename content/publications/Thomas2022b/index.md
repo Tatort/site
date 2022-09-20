@@ -6,7 +6,7 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt:   
+excerpt:  "**Thomas, Travis M**, Eric Suarez, Kevin Enge, Savanna C Barry, and Steve A Johnston. 2022. “Variation in Relative Abundance and Body Size of the Suwannee Alligator Snapping Turtle (*Macrochelys suwanniensis*) in the Suwannee River.” Southeastern Naturalist. *In press*."
 featured: true
 layout: single
 links:
