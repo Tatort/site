@@ -9,7 +9,7 @@ title: "The Snappers of the Suwannee: an ongoing capture-recapture odyssey"
 
 ### Our latest sampling efforts in our 3 long-term sampling sites. 
 
-Our summer sample start off on a rough note, as we had to deal with a ~8 ft gator entangled in our first trap in our upper site. After about 45 minutes of struggling, we were able to free the exhausted gator. To be honest, the whole ordeal had made us equally exhausted, but Kevin avoided losing his hand. Only 16 hours to go!  
+Our summer sample started off on a rough note, as we had to deal with a ~8 ft gator entangled in our first trap at our upper site. After about 45 minutes of struggling, we were able to free the exhausted gator. To be honest, the whole ordeal had made us equally exhausted, but Kevin avoided losing his hand. Only 16 hours to go!  
 
 <img src="images/gator.jpg" alt="" width="60%" height="60%"/>
 
