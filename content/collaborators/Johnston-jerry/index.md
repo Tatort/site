@@ -1,8 +1,7 @@
 ---
 author: Travis M. Thomas
 categories:
-- R
-- Research Project
+
 date: "2018-05-01"
 draft: false
 excerpt: Professor of biology at Santa Fe College and an expert on reptiles and amphibians. 

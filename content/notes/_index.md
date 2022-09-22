@@ -24,7 +24,7 @@ sidebar:
   title: Notes from the field
 thumbnail_left: true
 title: Recent Ramblings
-
+details: false
 ---
 
 

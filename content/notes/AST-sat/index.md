@@ -4,6 +4,7 @@ draft: false
 excerpt: We are pilot testing two modified satellite tags in an attempt to locate Suwannee Alligator Snapping Turtle nesting areas. These state-of-the-art tags are very expensive, but they have enormous potential to uncover some mysteries surrounding where this species nest. If we can find nests, we can study things like clutch size, nest survival, hatching success, hatchling survival, etc. Most of these parameters are educated guesses in our models, so this any information could allow for more robust models.  
 subtitle: "Some novel insights on nesting along the Suwannee"
 title: "Satellites and Snappers"
+
 ---
 
 

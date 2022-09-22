@@ -6,6 +6,7 @@ description: |
 show_header: true
 sidebar_left: false
 title: About
+details: false
 ---
 
 ** index doesn't contain a body, just front matter above.

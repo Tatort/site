@@ -1,8 +1,7 @@
 ---
 author: Travis M. Thomas
 categories:
-- R
-- Research Project
+
 date: "2022-05-01"
 draft: false
 excerpt: An expert herpetologist with over 30 years experience. 

@@ -1,8 +1,7 @@
 ---
 author: Travis M. Thomas
 categories:
-- R
-- Research Project
+
 date: "2021-05-01"
 draft: false
 excerpt: Eric graduated with his MS in the Dept. of Wildlife Ecology and Conservation at the University of Florida. He now serves as the South Region Conservation Biologist for FWC’s Wildlife and Habitat Management Section.

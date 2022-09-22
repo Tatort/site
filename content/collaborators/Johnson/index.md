@@ -1,8 +1,7 @@
 ---
 author: Travis M. Thomas
 categories:
-- R
-- Research Project
+
 date: "2018-05-01"
 draft: false
 excerpt: Dr. Johnson is a tenured professor in the Department of Wildlife Ecology and Conservation at the University of Florida. Dr. Johnson's research primarily focuses on the conservation of reptiles and amphibians.  
