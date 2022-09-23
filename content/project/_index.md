@@ -22,7 +22,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: My Projects
-title: Past, Present, and Future Research Projects
+title: Ongoing and Upcoming Research Projects
 details: false
 ---
 
