@@ -22,7 +22,11 @@ title: Pilot Testing a Novel GNSS Tracker (SnapperGPS) on Freshwater Turtles
 details: false
 ---
 
-Many species of turtles are cryptic species, therefore much of their behaviors are poorly understood. While satellite tags have been used on marine turtles for decades, these units are often large, power hungry, and cost prohibitive. Our colleagues at Oxford University have designed SnapperGPS: a small, low cost, low power GNSS receiver for tracking wildlife. In 2022, we will equip 8 female Suwannee Alligator Snapping Turtles with SnapperGPS receivers to help locate and identify important nesting areas for future research and conservation. SnapperGPS receivers can operate > 2 years on a 80 mAh battery and can record up to 11,000 position fixes. These receivers can obtain a position fix in 12 ms! We sincerely thank Amanda Matthes and the SnapperGPS team for their effort and for allowing us to be some of the first to test this amazing technology. For info on SnapperGPS click [here](https://snappergps.info/), and to read the SnapperGPS team's latest paper Matthes et al. (2022) click [here]( https://ora.ox.ac.uk/objects/uuid:c9acf083-d5e5-4265-8425-67509c5e3b9b) 
+Many species of turtles are cryptic species, therefore much of their behaviors are poorly understood. While satellite and GPS tags have been used on marine turtles for decades, these units are often large, power hungry, and cost prohibitive. Our colleagues at Oxford University have designed a novel GPS unit: SnapperGPS. SnapperGPS is a small, low cost, low power GNSS receiver for tracking wildlife. The boards themselves are just a few cm in size, and the battery that powers the unit can be even smaller. Our partners at Oxford University gave us some of these new units to test out.
+
+<img src="images/gps.jpg" alt="" width="60%" height="60%"/>
+
+In 2022, we will equip 8 female Suwannee Alligator Snapping Turtles with SnapperGPS receivers to help locate and identify important nesting areas for future research and conservation. SnapperGPS receivers can operate > 2 years on a 80 mAh battery and can record up to 11,000 position fixes. These receivers can obtain a position fix in 12 ms! We sincerely thank Amanda Matthes and the SnapperGPS team for their effort and for allowing us to be some of the first to test this amazing technology. For info on SnapperGPS click [here](https://snappergps.info/), and to read the SnapperGPS team's latest paper Matthes et al. (2022) click [here]( https://ora.ox.ac.uk/objects/uuid:c9acf083-d5e5-4265-8425-67509c5e3b9b) 
 
 
 
