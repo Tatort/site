@@ -141,11 +141,11 @@ enableEmoji = true
     title = "Field Notes"
     url = "/notes/"
     weight = 4
-#  [[menu.header]]
-#    name = "Collaborators"
-#    title = "Collaborators"
-#    url = "/collaborators/"
-#    weight = 5
+  [[menu.header]]
+    name = "Core Team"
+    title = "Core Team"
+    url = "/collaborators/"
+    weight = 5
   [[menu.header]]
     name = "Publications"
     title = "Publications"

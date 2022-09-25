@@ -20,6 +20,6 @@ show_post_date: false
 show_post_thumbnail: true
 subtitle: 
 thumbnail_left: false
-title: Research Partners & Collaborators
+title: Core Team and Collaborators
 details: false
 ---
