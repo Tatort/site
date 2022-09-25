@@ -9,7 +9,6 @@ layout: single
 links:
 subtitle: Professor at UF/WEC
 tags:
-
 title: Steve A. Johnson
 ---
 
