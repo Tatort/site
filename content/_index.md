@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I'm a researcher at the [**University of Florida's**](https://www.ufl.edu/) [**Nature Coast Biological Station**](https://ncbs.ifas.ufl.edu/). I'm interested in "allcology" or all-things-ecology & technology. I utilize a variety of tools to investigate the conservation status of cryptic and imperiled species. I primarily focus on turtles and tortoises, which are typically data deficient or in-decline worldwide.   
+description: I'm a researcher at the [University of Florida's](https://www.ufl.edu/) [**Nature Coast Biological Station**](https://ncbs.ifas.ufl.edu/). I'm interested in *"allcology"* or all-things-ecology & technology. I utilize a variety of techniques to investigate the conservation status of cryptic and imperiled species. My research is primarily focus on reptiles, especially turtles and tortoises, which are typically data deficient or in-decline worldwide.   
 
 image_left: true
 images:
