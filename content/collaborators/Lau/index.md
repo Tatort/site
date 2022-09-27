@@ -14,4 +14,4 @@ title: Anthony Lau
 ---
 <img src="images/Lau_AST.JPG" alt="" width="50%" height="50%"/>
 
-Anthony Lau is currently an Assistant Professor at Lingnan University in Hong Kong. His lab focuses mainly on introduced species in aquatic ecosystems. Previously, worked on the ecology of river turtles in Florida before moving to Asia to work on salamanders.     
+Anthony Lau is currently an Assistant Professor at Lingnan University in Hong Kong. His lab focuses mainly on introduced species in aquatic ecosystems. Anthony received his PhD from the University of Hong Kong and his MS from the University of Florida. Previously, he worked on the ecology of river turtles in Florida before moving to Asia to work on salamanders.     
