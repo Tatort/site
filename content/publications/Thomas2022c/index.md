@@ -14,7 +14,7 @@ location:
 show_post_time: 
 subtitle:   
 title:
-
+details: false
 ---
 
 Denton, Mathew, Gerald R Johnston, **Travis M Thomas**, Hardin Waddle, Susan C Walls, and Kristen M Hart. 2022. Dietary Niche of Three Omnivorous Turtle Species: Insights from Stable Isotope Analysis. *Southeastern Naturalist*. *In press*.
