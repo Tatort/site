@@ -5,6 +5,8 @@ excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in t
 subtitle: "Summer 2022"
 title: "The Snappers of the Suwannee: an ongoing capture-recapture odyssey"
 details: false
+categories:
+- Field Notes
 ---
 
 

@@ -5,7 +5,8 @@ excerpt: Our collegues at Oxford University sent us the first batch of SnapperGP
 subtitle: "Our first look at the novel GPS tracker"
 title: "SnapperGPS Has Arrived"
 details: false
-
+categories:
+- Field Notes
 ---
 
 They're small. I'm talking really small considering the power that they bring to the table. In addition, their components (i.e., battery, antenna, etc.) are small. These could be extremely useful on a variety of species.

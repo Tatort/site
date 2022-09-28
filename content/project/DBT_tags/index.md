@@ -1,7 +1,6 @@
 ---
 author: Travis M. Thomas
 categories:
-- R
 - Research Project
 date: "2021-05-01"
 draft: false
