@@ -1,12 +1,15 @@
 ---
 date: "2022-07-08"
 draft: false
+details: false
 excerpt: Our summer sampling effort for Suwannee Alligator Snapping turtles in the Suwannee River. It was hot and rainy; we were welcomed by a 8 ft long alligator in one of our traps, but we managed to capture a bunch turtles. In addition, we caught a few turtles that were previously marked in 2011-2012. These long-term recaptures are extremely important and provide some indication that this species has high apparent survival and incredible site fidelity! What a fascinating turtle! Click to read more.
 subtitle: "Summer 2022"
 title: "The Snappers of the Suwannee: an ongoing capture-recapture odyssey"
-details: false
+
 categories:
 - Field Notes
+tags:
+ - Field Notes
 ---
 
 
