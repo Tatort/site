@@ -7,7 +7,7 @@ draft: false
 excerpt: Shea Husband is a current graduate student in the Department of Wildlife Ecology and Conservation at the University of Florida. Shea's research is primary focused on the efficacy of discrete by-catch reduction devices (BRDs) on terrapin exclusion and crab capture rates. 
 layout: single
 links:
-subtitle: Graduate Assistant-UF/NCBS
+subtitle: Graduate Assistant at the University of Florida/NCBS
 tags:
 
 title: Shea Husband
