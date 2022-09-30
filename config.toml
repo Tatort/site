@@ -101,18 +101,18 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/hashtag/Allcology/"
-#  [[params.social]]
-#      icon      = "impactstory" # icon name without the 'fa-'
-#      icon_pack = "ai"
-#      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+  [[params.social]]
+      icon      = "impactstory" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://impactstory.org/u/0000-0002-8325-2320"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8325-2320"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/notes/index.xml"
+#  [[params.social]]
+#      icon      = "rss" # icon name without the 'fa-'
+#      icon_pack = "fas"
+#      url       = "/notes/index.xml"
 
 [taxonomies]
   category = "categories"
