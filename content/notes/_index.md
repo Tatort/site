@@ -19,7 +19,7 @@ sidebar:
   author: Travis M. Thomas
   description: "A blog(ish) series"
   show_sidebar_adunit: true
-  text_link_label: 
+  text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: Notes from the field
 thumbnail_left: true
