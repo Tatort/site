@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /notes/
-description: "Notes from the field"
+description: "Recent ramblings from the field & lab"
 layout: list
 show_author_byline: true
 show_button_links: false
@@ -17,13 +17,13 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Travis M. Thomas
-  description: "A blog(ish) series"
+  description: 
   show_sidebar_adunit: true
   text_link_label:
   text_link_url: /index.xml
-  title: Notes from the field
+  title: 
 thumbnail_left: true
-title: Recent Ramblings
+title: Field Notes
 details: false
 ---
 
