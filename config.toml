@@ -92,7 +92,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/profile.php?id=206415/"
+      url       = "https://www.facebook.com/ncbs.ifas.ufl.edu/"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
