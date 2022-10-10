@@ -15,17 +15,17 @@ tags:
 
 ### Our latest survey for Cedar Key Mole Skinks
 
-A team of researchers (Kevin Enge, Paul Moler, Mark Robertson, Jamie Barichivich, Matt Fedler, Jake Scott, and yours truly) embarked from UF/NCBS on a journey to locate Cedar Key Mole Skinks on undocumented islands in the Suwannee Estuary. The Cedar Key Mole Skink is a fossorial lizard that lives in beach/sandy habitats on islands in the suwannee Estuary. This species is undergoing a status assessment, and better understanding its range is a critical component for any decision on its conservation status. We headed North towards the mouth of the Suwannee River to search islands that potentially have undocumented populations. 
+A team of researchers (Kevin Enge, Paul Moler, Mark Robertson, Jamie Barichivich, Matt Fedler, Jake Scott, and yours truly) embarked from UF/NCBS on a journey to locate Cedar Key Mole Skinks on undocumented islands in the Suwannee Estuary. The Cedar Key Mole Skink is a fossorial lizard that is endemic to the sandy beaches of islands in the Suwannee Estuary. This species is undergoing a status assessment, thus better understanding its range is critical for any decision on its conservation status. We headed North towards the mouth of the Suwannee River to search islands that potentially have undocumented populations. 
 
 Off we go with Captain Kenny!
 
 
-Two of the islands appeared to have suitable beach habitats; however, the island's "beach" habitat was just shell fragments. Oyster shell reflects sunlight and resembles white sand beach in satellite images, so some of islands targeted for surveys actually lacked appropriate beach habitat.  
+Two of the islands appeared to have suitable beach habitats; however, the island's "beach" habitat was just shell fragments. In fact, oyster shell reflects sunlight and resembles white sand beach in satellite images, so some of islands we targeted for surveys actually lacked appropriate beach habitat.  
 
 <img src="images/shell.jpg" alt="Shell fragments" width="60%" height="60%"/>
 
 
-We found some good looking habitat on one island, which had gopher tortoise burrows in the island's interior. This indicates that this island has decent elevation. Unfortunately, our manual surveys came up empty, but the team assessed that this island holds some potential. Perhaps we will return with drift fences. 
+We found some good looking habitat on one island, which interestingly had gopher tortoise burrows. This indicates that this island has decent elevation. Unfortunately, our manual surveys came up empty, but the team assessed that this island holds some potential. Perhaps we will return with drift fences. 
 
 <img src="images/burrow.jpg" alt="Tortoise burrow" width="60%" height="60%"/>
 
