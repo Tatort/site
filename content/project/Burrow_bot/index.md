@@ -4,7 +4,7 @@ categories:
 - Research Project
 date: "2022-12-01"
 draft: false
-excerpt: We are designing and building a prototype robot to investigate wildlife burrows. The robot is powered by a microcomputer and uses several sensors (i.e., LIDAR) and inferred cameras to collect data. 
+excerpt: We are designing and building a prototype robot to investigate wildlife burrows. The robot is powered by a microcomputer and uses several sensors (i.e.,AI camera, LIDAR, temperature/humidity) to collect data on tortoises and their burrows. 
 
 
 layout: single
@@ -24,16 +24,22 @@ title: The Burrow Bot
 details: false
 ---
 
-The burrow robot is a small, tracked platform that incorporates microcomputers and advanced sensors that will allow us to better investigate the underground environment of burrowing species, especially gopher tortoises. The prototype is appropriately 15cm wide and 10cm tall, which allows it to investigate most adult gopher tortoise burrows. 
+The burrow robot is a small, tracked robotic platform that incorporates a microcomputer (raspberry pi 4b 8GB RAM) and advanced sensors that will allow us to better investigate the underground environment of burrowing species, especially gopher tortoises. The prototype is appropriately 15cm wide and 8cm tall, which allows it to investigate most adult gopher tortoise burrows. 
 
-The platform is packed with technologies that allow it to measure and record environmental parameters. The robot is equipped with a raspberry pi 4b and incorporates a small powerful RPLidar to navigate and scan its surroundings. The computer and sensors are powered by a 25000 mAh rechargeable battery.  
+The platform is packed with technologies that allow it to measure and record environmental parameters. The robot is equipped with a small powerful AI capable camera system (Luxonis) that can potentially identify (with training) wildlife species and possible even individuals. In addition, the small robot possess a small Lidar (Slamtec S2) unit that helps the vehicle navigate and scan its surroundings. 
 
 <img src="images/ScreenShot2022-02-18at4.45.25PM.jpg" alt="" width="60%" height="60%"/>
 
 
-The raspberry pi 4b interfaces with a robotic operating system (ROS) in the python language, and can be controlled wireless or with a small Ethernet cable (for high speed data transfer). The robot is designed to be controlled with a single laptop, and future iterations will incorporate AI technology.
+The on-board microcomputer/sensors interface in concert with a robotic operating system (ROS2), and the robot is designed to be controlled with a single laptop via an Ethernet cable. It can be tethered to a power source that can supply hours and hours of operation. However, future iterations could be operated wireless with on-board power supplies.  
 
-<img src="images/back.jpg" alt="" width="80%" height="80%"/>
+<img src="images/front_bot.png" alt="" width="80%" height="80%"/>
 
-We are in beta testing now so check back for updates!
+Front view
+
+<img src="images/back_bot.png" alt="" width="80%" height="80%"/>
+
+Back view
+
+We hope to start beta testing in summer 2023, so check back for updates!
 
