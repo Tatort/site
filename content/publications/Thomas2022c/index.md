@@ -1,9 +1,8 @@
 ---
 author: Travis M. Thomas
-date: '2023-06-17'
+date: '2022-06-17'
 categories:
 - Publication
-
 draft: false
 event: 
 event_url: 
