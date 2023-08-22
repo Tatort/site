@@ -9,7 +9,7 @@ images:
 - img/Thomas_AST.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Research Scientist at the University of Florida
+subtitle: Research Assistant Professor at the University of Florida
 text_align_left: false
 title: Travis M. Thomas
 type: home
