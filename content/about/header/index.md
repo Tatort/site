@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Research Scientist at the UF/IFAS Nature Coast Biological Station
+Research Assistant Professor at the University of Florida
