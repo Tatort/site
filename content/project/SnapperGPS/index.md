@@ -4,7 +4,7 @@ categories:
 - Research Project
 date: "2023-08-01"
 draft: false
-excerpt: We are collaborating with researchers at Oxford University to pilot test their state-of-the-art, "open-source" GNSS PCB receivers. 
+excerpt: We are collaborating with researchers at the University of Oxford to pilot test their state-of-the-art, open-source GNSS receiver. 
 layout: single
 links:
 #- icon: door-open
