@@ -6,7 +6,8 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt:   "**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida. [*Chelonian Conservation and Biology 21(1): 2–10*](https://bioone.org/journals/chelonian-conservation-and-biology/volume-21/issue-1/CCB-1500.1/Population-Status-of-the-Suwannee-Alligator-Snapping-Turtle-Macrochelys-suwanniensis/10.2744/CCB-1500.1.full)"
+excerpt:   "**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida. [*Chelonian Conservation and Biology 21(1): 2–10*](
+https://doi.org/10.2744/CCB-1500.1)"
 featured: true
 layout: single
 links:
@@ -17,8 +18,9 @@ title:
 
 ---
 
-**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida. [*Chelonian Conservation and Biology 21(1): 2–10*](https://bioone.org/journals/chelonian-conservation-and-biology/volume-21/issue-1/CCB-1500.1/Population-Status-of-the-Suwannee-Alligator-Snapping-Turtle-Macrochelys-suwanniensis/10.2744/CCB-1500.1.full)
+**Thomas, Travis M**, Kevin M Enge, Eric Suarez, and Gerald R Johnston. 2022. Population Status of the Suwannee Alligator Snapping Turtle (*Macrochelys Suwanniensis*) in the Suwannee River, Florida. [*Chelonian Conservation and Biology 21(1): 2–10*](
+https://doi.org/10.2744/CCB-1500.1)
 
 
-[Download file](Thomas_et_al_2022.pdf)
+
 

@@ -7,7 +7,7 @@ categories:
 draft: false
 event: 
 event_url: 
-excerpt:  "Denton, Mathew, Gerald R. Johnston, **Travis M. Thomas**, J. Hardin Waddle, Susan C. Walls, and Kristen M. Hart. 2023. Dietary Niche of Three Omnivorous Turtle Species in a Northern Florida River: Insights from Stable Isotope Analysis. [*Southeastern Naturalist, 22(12):359-377*](https://www.dropbox.com/scl/fi/3j2bd4czvtz72l2a0f85u/Denton_2023.pdf?rlkey=tea6hcvl5ar7m51obldxdurwl&dl=0)."
+excerpt:  "Denton, Mathew, Gerald R. Johnston, **Travis M. Thomas**, J. Hardin Waddle, Susan C. Walls, and Kristen M. Hart. 2023. Dietary Niche of Three Omnivorous Turtle Species in a Northern Florida River: Insights from Stable Isotope Analysis. [*Southeastern Naturalist, 22(12):359-377*](https://doi.org/10.1656/058.022.0sp1221)."
 
 featured: true
 layout: single
@@ -19,5 +19,5 @@ title:
 details: false
 ---
 
-Denton, Mathew, Gerald R. Johnston, **Travis M. Thomas**, J. Hardin Waddle, Susan C. Walls, and Kristen M. Hart. 2023. Dietary Niche of Three Omnivorous Turtle Species in a Northern Florida River: Insights from Stable Isotope Analysis. [*Southeastern Naturalist, 22(12):359-377*](https://www.dropbox.com/scl/fi/3j2bd4czvtz72l2a0f85u/Denton_2023.pdf?rlkey=tea6hcvl5ar7m51obldxdurwl&dl=0).
+Denton, Mathew, Gerald R. Johnston, **Travis M. Thomas**, J. Hardin Waddle, Susan C. Walls, and Kristen M. Hart. 2023. Dietary Niche of Three Omnivorous Turtle Species in a Northern Florida River: Insights from Stable Isotope Analysis. [*Southeastern Naturalist, 22(12):359-377*](https://doi.org/10.1656/058.022.0sp1221).
 
