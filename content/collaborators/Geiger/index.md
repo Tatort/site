@@ -4,7 +4,7 @@ categories:
 
 date: "2021-05-01"
 draft: false
-excerpt: Jeremy is currently serving as a wildlife technician at the Nature Coast Biological Station where he assist with research on imperiled species.
+excerpt: Jeremy is currently serving as a wildlife technician at the Nature Coast Biological Station where he assists with research on imperiled species.
 layout: single
 links:
 subtitle: Research tech at UF/NCBS
